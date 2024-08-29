@@ -1,0 +1,33 @@
+@media screen and (max-width: 1105px) {
+    nav .central{
+        position: relative;
+    }
+    nav .outros{
+        display: none;
+    }
+    header{
+        padding: 50px;
+    }
+    header .headline{
+        margin: 5%;
+        flex: 100%;
+        text-align: center;
+    }
+    header .headline p{
+        text-align: center;
+    }
+    header .foto{
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+    .whats{
+        display: none;
+    }
+    .card{
+        width: 100%;
+    }
+    footer{
+        height: 450px;
+    }
+}
